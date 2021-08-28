@@ -8,7 +8,7 @@ In this little PHP exercise, you will learn to use simple PHP commands. There ar
 1. After completing step 1 in part 1 you will have to download this repository
 2. Next go and open the **index.php** file with your editor (vscode or brackets)
 3. I've inserted PHP comments with instructions inside each PHP file that you should try fix
-4. 4. Repeat **step 2 to 3** for all other PHP files
+4. Repeat **step 2 to 3** for all other PHP files
 
 ## PART 1 - Quick introduction to PHP
 
